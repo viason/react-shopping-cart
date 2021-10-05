@@ -1,0 +1,18 @@
+{
+    "products":[
+        {   "_id" : "0001", 
+            "title" : "Chicken Teriyaki", 
+            "price" : "100 php", 
+            "description" : "Chicken", 
+            "image" :"/images/Chicken_Chilaquiles_Rojas.jpg"
+        },
+        {
+            "_id" : "0002", 
+            "title" : "Chicken Feet", 
+            "price" : "100 php", 
+            "description" : "Chicken" ,
+            "image" : "/images/Honey-Garlic-Chicken-Breast_5.jpg"
+        }
+    ]    
+   
+}
